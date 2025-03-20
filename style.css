@@ -1,0 +1,38 @@
+#ramen-menu{display: flex;
+    justify-content: center;
+     cursor: pointer;
+
+}
+#div1{
+
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+    margin: 0%;
+
+}
+#form{
+    display: flex;
+    justify-self: center;
+    flex-direction: column;
+    
+}
+#no4{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    margin-right: 0px;
+    max-height: 40px;
+}
+body{
+    margin: 0%;
+}
+#ramen-details{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
